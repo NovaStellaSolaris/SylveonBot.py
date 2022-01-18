@@ -1,3 +1,10 @@
+#SylveonBot.py
+
+SylveonBot.py is my fork of SysBot.py, it doesn't do anything special yet, I just added a few commands that pull up some extra information about Forkbot, Aphidbot, and Sylveon's Server. It's a WIP so who knows, I may learn how to do something cool with it.
+
+Support Server:
+https://discord.gg/G4s4fVqwVx
+
 # SysBot.py
 [![License](https://img.shields.io/badge/license-GNU%20Affero%20General%20Public%20License%20Version%203%20or%20Later-blue.svg)]()
 
