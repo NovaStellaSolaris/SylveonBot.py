@@ -7,7 +7,7 @@ discord.py>=1.6.0
 DiscordUtils
 Pillow
 PyAutoGUI
-PyYAML=5.4.1
+PyYAML==5.4.1
 requests
 requests-toolbelt
 rich
